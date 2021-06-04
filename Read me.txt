@@ -1,0 +1,5 @@
+1. Need to import database to phpMyAdmin 
+   database name should be - jk_sales_system 
+
+2. Run software
+   Using JK_Sales_System-1.0 application or NetBeansProject
