@@ -27,6 +27,20 @@ This is the first interface of the JK sales system, using this interface can go 
 ![image](https://user-images.githubusercontent.com/69201980/121898007-91a45880-cd40-11eb-8bb9-fa0f5df65353.png)
   
 Using this interface can log into main menu of the head-office. Username and password should be correct to log into head-office main menu, if username and password incorrect error message show “Please provide valid entries for both fields”.
+
+<b>Select the Branch</b>
+  
+In this interface admin should select the correct branch to log in. Galle admin cannot log into Matara branch because Galle branch admin registered to only Galle branch. 
+  
+![image](https://user-images.githubusercontent.com/69201980/121898391-f3fd5900-cd40-11eb-8972-d595e9f9bd48.png)
+
+<b>Head-Office Home</b>
+  
+Head Office admins can access all these interfaces. Using these interfaces head-office admins can manage all important sales works. Head-office admins have more access rather than branch admins.
+
+![image](https://user-images.githubusercontent.com/69201980/121898500-11cabe00-cd41-11eb-88e5-81a9d9e14a31.png)
+
+
   
 
 
