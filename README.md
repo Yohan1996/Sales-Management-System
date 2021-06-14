@@ -14,4 +14,20 @@ Modern day most of sales companies use latest technology such as sales systems t
 
 ![image](https://user-images.githubusercontent.com/69201980/120893332-5e6f1480-c630-11eb-8bf6-03fdd78718ce.png)
 
+<b>Intefaces<b>
+  
+<b>Home Interface</b>
+  
+![image](https://user-images.githubusercontent.com/69201980/121897917-776a7a80-cd40-11eb-92ef-04e97f43e301.png)
+  
+This is the first interface of the JK sales system, using this interface can go to login interface. There are two main logins branch login and head-office login. Top of the interface has name of the system.
+
+<b>Head-Office Admin Login</b>
+  
+![image](https://user-images.githubusercontent.com/69201980/121898007-91a45880-cd40-11eb-8bb9-fa0f5df65353.png)
+  
+Using this interface can log into main menu of the head-office. Username and password should be correct to log into head-office main menu, if username and password incorrect error message show “Please provide valid entries for both fields”.
+  
+
+
 
