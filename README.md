@@ -14,7 +14,7 @@ Modern day most of sales companies use latest technology such as sales systems t
 
 ![image](https://user-images.githubusercontent.com/69201980/120893332-5e6f1480-c630-11eb-8bf6-03fdd78718ce.png)
 
-<b>Intefaces<b>
+<b>Intefaces</b>
   
 <b>Home Interface</b>
   
