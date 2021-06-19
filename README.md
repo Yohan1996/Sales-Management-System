@@ -40,6 +40,24 @@ Head Office admins can access all these interfaces. Using these interfaces head-
 
 ![image](https://user-images.githubusercontent.com/69201980/121898500-11cabe00-cd41-11eb-88e5-81a9d9e14a31.png)
 
+Branch Home
+
+There are three branch home interfaces which are Galle branch home interface, Matara branch home interface and kandy branch home interface. Branch admins can access these interfaces. Request stocks interface can access only branch admins.
+
+![image](https://user-images.githubusercontent.com/69201980/122651135-6a8cc300-d154-11eb-9907-74b0c6b9a96c.png)
+
+![image](https://user-images.githubusercontent.com/69201980/122651138-6eb8e080-d154-11eb-95b1-d61380874834.png)
+
+![image](https://user-images.githubusercontent.com/69201980/122651142-724c6780-d154-11eb-860c-1a8e2d5bc919.png)
+
+Manage Stock
+
+Using this interface can manage all stock details. This interface can use only head-office admins. Head-office admins can insert, update and delete stocks. In addition to that Head-office admins can print all Stock details.
+
+![image](https://user-images.githubusercontent.com/69201980/122651153-83957400-d154-11eb-8ec4-a5785f4d63e2.png)
+
+![image](https://user-images.githubusercontent.com/69201980/122651155-885a2800-d154-11eb-9a06-800e3ee6b173.png)
+
 
   
 
