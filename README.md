@@ -64,6 +64,26 @@ Using this interface can manage sales like update and delete sales details. Find
 
 ![image](https://user-images.githubusercontent.com/69201980/122651167-9ad46180-d154-11eb-81cd-a84ebfb9d142.png)
 
+<b>Received Stock Requests</b>
+
+Head-Office and each and every branch has their own interface for find received stock requests. This interface shows every details of the requests like date, quantity, product id, product name and where request come from.
+
+![image](https://user-images.githubusercontent.com/69201980/122979511-4380fc00-d3b5-11eb-83cb-f1749a1743b0.png)
+
+<b>Transfer Products</b>
+
+Using this interface can transfer requested product stock to requested branch or cancel requests. Head-office and every branch have this interface with only their own received requested details.
+
+![image](https://user-images.githubusercontent.com/69201980/122979558-51cf1800-d3b5-11eb-9492-5e5d4601d1ea.png)
+
+<b>Track Stocks</b>
+
+In this interface can track all stocks details after request stocks transferred. Can correctly identify which stage transferred stock in. There are three stages like Accepted, Transporting and Delivered. Head-Office and branches can update status of the transaction using radio buttons, after that click submit status button for update status of the transaction correctly.
+
+![image](https://user-images.githubusercontent.com/69201980/122979589-5dbada00-d3b5-11eb-9491-c4c70a8860fb.png)
+
+
+
   
 
 
