@@ -88,6 +88,17 @@ Using this interface can manage all branches. This interface can access only hea
 
 ![image](https://user-images.githubusercontent.com/69201980/122979821-a377a280-d3b5-11eb-8c90-6736c8538742.png)
 
+6.12	Head-Office Vehicles
+
+In this interface can add new vehicles details, update vehicles details and delete vehicles details. Head-office and branches have their own interface for manage vehicles. Matara branch admins cannot view vehicles details of other branches and head-office, Matara branch admins can only view Matara branch vehicles details.
+
+![image](https://user-images.githubusercontent.com/69201980/122981246-2816f080-d3b7-11eb-9eec-15d595ab06de.png)
+
+6.13	Create Head-Office Admin Login Account
+
+Head-office admins can only access to this interface, using this interface can create head-office admin login account. In this interface need to give details of the new head-office admin and give username and password for log in to the system.
+
+![image](https://user-images.githubusercontent.com/69201980/122981293-35cc7600-d3b7-11eb-929d-a82404869c70.png)
 
 
 
