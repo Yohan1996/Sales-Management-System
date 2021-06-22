@@ -82,6 +82,13 @@ In this interface can track all stocks details after request stocks transferred.
 
 ![image](https://user-images.githubusercontent.com/69201980/122979589-5dbada00-d3b5-11eb-9491-c4c70a8860fb.png)
 
+<b>Manage Branches</b>
+
+Using this interface can manage all branches. This interface can access only head-office admins, branches admins cannot view this interface. Head-Office admins can insert a new branch or update a branch or delete branch details.
+
+![image](https://user-images.githubusercontent.com/69201980/122979821-a377a280-d3b5-11eb-8c90-6736c8538742.png)
+
+
 
 
   
