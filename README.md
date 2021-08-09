@@ -101,8 +101,35 @@ Head-office admins can only access to this interface, using this interface can c
 ![image](https://user-images.githubusercontent.com/69201980/122981293-35cc7600-d3b7-11eb-929d-a82404869c70.png)
 
 
-
+Test Cases
   
+![image](https://user-images.githubusercontent.com/69201980/128694515-35b6e875-d08f-41b2-a8ea-39d1b19c597b.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694561-98cf9720-707a-4138-b222-6e1462f4b3c3.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694589-6b9937f4-5f21-4064-a32b-4ebd15312d91.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694628-a9999fe0-a29d-4260-be0c-53887b40fb94.png)
+
+
+Validations
+
+![image](https://user-images.githubusercontent.com/69201980/128694779-f511d516-ef06-4d72-bbe6-291b37c67574.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694807-2c2a4242-601d-494c-a5ab-dabb8692cd77.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694826-025c3d4b-3202-47c7-bb1e-ca501e952633.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694718-99a08a89-6a9a-4bc6-ac14-213d5defc6fb.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694724-b05e82d2-72fe-4490-a7e3-1f568785456a.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694733-0ec9bd98-94c1-492e-aab9-e7c03fcc7b5c.png)
+
+![image](https://user-images.githubusercontent.com/69201980/128694753-ba99dd94-c30f-4189-bee7-72a0397690db.png)
+
+
+
 
 
 
