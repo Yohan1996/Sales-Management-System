@@ -101,17 +101,6 @@ Head-office admins can only access to this interface, using this interface can c
 ![image](https://user-images.githubusercontent.com/69201980/122981293-35cc7600-d3b7-11eb-929d-a82404869c70.png)
 
 
-Test Cases
-  
-![image](https://user-images.githubusercontent.com/69201980/128694515-35b6e875-d08f-41b2-a8ea-39d1b19c597b.png)
-
-![image](https://user-images.githubusercontent.com/69201980/128694561-98cf9720-707a-4138-b222-6e1462f4b3c3.png)
-
-![image](https://user-images.githubusercontent.com/69201980/128694589-6b9937f4-5f21-4064-a32b-4ebd15312d91.png)
-
-![image](https://user-images.githubusercontent.com/69201980/128694628-a9999fe0-a29d-4260-be0c-53887b40fb94.png)
-
-
 Validations
 
 ![image](https://user-images.githubusercontent.com/69201980/128694779-f511d516-ef06-4d72-bbe6-291b37c67574.png)
